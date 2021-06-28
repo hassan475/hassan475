@@ -13,7 +13,7 @@ I am a fullstack software engineer from Pakistan.
 ## Expertise
 <img align="left" alt="C Sharp" src="https://img.shields.io/badge/C Sharp%20-%2320232a.svg?&style=for-the-badge&logo=C#&logoColor=%2361DAFB" />
 <img align="left" alt=".Net" src="https://img.shields.io/badge/.Net%20-%2343853D.svg?&style=for-the-badge&logo=.Net&logoColor=white" />
-<img align="left" alt=".Net Core" src="https://img.shields.io/badge/.Net Core%20AWS-%23232F3E?logo=.Net Core&logoColor=white&style=for-the-badge" />
+<img align="left" alt=".Net Core" src="https://img.shields.io/badge/.Net Core%20AWS-%23232F3E?logo=.NetCore&logoColor=white&style=for-the-badge" />
 <img align="left" alt="Azure" src="https://img.shields.io/badge/Azure-%23316192.svg?&style=for-the-badge&logo=Azure&logoColor=white" />
 <img align="left" alt="Angular" src="https://img.shields.io/badge/Angular-3DDC84?logo=Angular&logoColor=white&style=for-the-badge" />
 <img align="left" alt="jQuery" src="https://img.shields.io/badge/jQuery%20-%236DB33F.svg?&style=for-the-badge&logo=jQuery&logoColor=white" />
