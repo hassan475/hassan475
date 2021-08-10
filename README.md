@@ -1,21 +1,35 @@
-### Hello World 👋
-I am a fullstack software engineer from Pakistan.
-- 🔭 Working on multiple frontend and backend project using C#, .Net, .Net Core and Azure.
-- 🌱 Learning design patterns in depth
-<br>
-## Connect with me
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](http://www.linkedin.com/in/hassan-iftikhar-siddique/)
-[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](http://www.linkedin.com/in/hassan-iftikhar-siddique/)
-[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/hassaniftikhar875/)
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/475_hassan)
-<br>
-<br>
-## Expertise
-<img align="left" alt="C Sharp" src="https://img.shields.io/badge/C Sharp%20-%2320232a.svg?&style=for-the-badge&logo=C#&logoColor=%2361DAFB" />
-<img align="left" alt=".Net" src="https://img.shields.io/badge/.Net%20-%2343853D.svg?&style=for-the-badge&logo=.Net&logoColor=white" />
-<img align="left" alt=".Net Core" src="https://img.shields.io/badge/.Net Core%20-%23232F3E?logo=.NetCore&logoColor=white&style=for-the-badge" />
-<img align="left" alt="Azure" src="https://img.shields.io/badge/Azure-%23316192.svg?&style=for-the-badge&logo=Azure&logoColor=white" />
-<img align="left" alt="Angular" src="https://img.shields.io/badge/Angular-3DDC84?logo=Angular&logoColor=white&style=for-the-badge" />
-<img align="left" alt="jQuery" src="https://img.shields.io/badge/jQuery%20-%236DB33F.svg?&style=for-the-badge&logo=jQuery&logoColor=white" />
-<br>
-<br>
+<h1 align="center">Hi 👋, I'm Hassan Iftikhar</h1>
+<h3 align="center">A passionate frontend developer from Pakistan</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hassan475&label=Profile%20views&color=0e75b6&style=flat" alt="hassan475" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassan475" alt="hassan475" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/475_hassan" target="blank"><img src="https://img.shields.io/twitter/follow/475_hassan?logo=twitter&style=for-the-badge" alt="475_hassan" /></a> </p>
+
+- 🔭 I’m currently working on [CSI Cloud](http://csicloud.csidealer.com/cloudadmin/)
+
+- 🌱 I’m currently learning **Angular**
+
+- 👨‍💻 All of my projects are available at [https://hassan475.github.io/](https://hassan475.github.io/)
+
+- 💬 Ask me about **.Net**
+
+- 📫 How to reach me **hassaniftikhar875@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/475_hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="475_hassan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hassan-iftikhar-siddique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hassan-iftikhar-siddique" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/7763755" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7763755" height="30" width="40" /></a>
+<a href="https://instagram.com/hsnsiddique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hsnsiddique" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassan475&show_icons=true&locale=en&layout=compact" alt="hassan475" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassan475&show_icons=true&locale=en" alt="hassan475" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassan475&" alt="hassan475" /></p>
